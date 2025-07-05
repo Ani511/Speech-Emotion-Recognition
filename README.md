@@ -6,15 +6,16 @@ A complete end-to-end system for detecting emotions from voice clips using tradi
 
 ## 📌 Project Highlights
 ```
-| Task | Status |
-|------|--------|
-| 🔍 Audio Preprocessing | MFCCs, Log-Mel Spectrograms |
-| 🧠 ML Models | XGBoost, Random Forest |
-| 🤖 DL Models | Conv1D, BiLSTM, 2D CNN |
-| 🎯 Accuracy | Up to **70%** on val set |
-| 💾 Dataset | RAVDESS (1,500+ `.wav` files) |
-| 📊 Evaluation | Accuracy, F1-scores, Confusion Matrices |
-| 🧠 Future Work | Streamlit-based real-time inference app |
+| Task               | Status                                         |
+|--------------------|------------------------------------------------|
+| 🔍 Audio Preprocessing | MFCCs, Log-Mel Spectrograms               |
+| 🧠 ML Models           | XGBoost, Random Forest                    |
+| 🤖 DL Models           | Conv1D, BiLSTM, 2D CNN                    |
+| 🎯 Accuracy            | Up to **70%** on val set                  |
+| 💾 Dataset             | RAVDESS (1,500+ `.wav` files)             |
+| 📊 Evaluation          | Accuracy, F1-scores, Confusion Matrices   |
+| 🧠 Future Work         | Streamlit-based real-time inference app   |
+
 ```
 ---
 
